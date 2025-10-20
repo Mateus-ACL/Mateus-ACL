@@ -1,5 +1,3 @@
-# 🧑🏽‍💻 Mateus Augusto
-
 **`Desenvolvedor em formação`**
 ---
 
